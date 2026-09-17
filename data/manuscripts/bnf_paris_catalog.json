@@ -1,0 +1,93 @@
+{
+  "repository": "Bibliothèque nationale de France (BnF)",
+  "city": "Paris",
+  "country": "France",
+  "collection": "Département des Manuscrits - Fonds Arabe & Latin",
+  "total_records": 4,
+  "manuscripts": [
+    {
+      "shelfmark": "MS Arabe 2136",
+      "title_arabic": "كتاب التصريف لمن عجز عن التأليف",
+      "title_translit": "Kitāb al-Taṣrīf li-man ʿajiza ʿan al-taʾlīf",
+      "title_turkish": "Kitâbü't-Tasrîf Cerrahi Nüshası",
+      "author": "Ebû'l-Kâsım ez-Zehrâvî (Abulcasis)",
+      "author_death_year": "1013 CE",
+      "origin": "Al-Andalus",
+      "date_copied": "12th-13th c. CE",
+      "language": "Arabic",
+      "script": "Maghrebi cursive",
+      "folios": "174 folios",
+      "illustrations": true,
+      "illustration_description": "Full color pigments and carbon black instrument schematics with Arabic marginal annotations.",
+      "subject": "Medicine & Surgery",
+      "latin_translation": "Chirurgia Albucasis (Latin MS BNF Lat. 6882)",
+      "historical_importance": "One of the earliest and best preserved copies of the surgical section with rubricated captions for clinical intervention instruments.",
+      "references": [
+        "De Slane, Catalogue des manuscrits arabes de la Bibliothèque nationale, Paris, 1883"
+      ]
+    },
+    {
+      "shelfmark": "MS Arabe 2835",
+      "title_arabic": "الجامع لمفردات الأدوية والأغذية",
+      "title_translit": "Al-Jāmiʿ li-Mufradāt al-Adwiya wa-al-Aghdhiya",
+      "title_turkish": "el-Câmi' li-Müfredâti'l-Edviye ve'l-Ağziye",
+      "author": "Ziyâüddîn Ebû Muhammed Abdullâh b. Ahmed el-Mâlekî (İbnü'l-Baytâr)",
+      "author_death_year": "1248 CE",
+      "origin": "Málaga (Mālaqah) / Damascus",
+      "date_copied": "1324 CE",
+      "language": "Arabic",
+      "script": "Eastern Naskh with Maghrebi glosses",
+      "folios": "310 folios",
+      "illustrations": false,
+      "illustration_description": "Comprehensive alphabetical botanical listings with synonyms in Arabic, Berber, Latin, Romance, and Persian.",
+      "subject": "Pharmacognosy & Medicinal Botany",
+      "latin_translation": "Simplicius Medicamentis (translated partially into Latin and German)",
+      "historical_importance": "Contains 1,400+ medicinal substances, correcting Dioscorides and Galen based on empirical botanical field expeditions across the Mediterranean.",
+      "references": [
+        "Leclerc, L., Traité des simples par Ibn el-Beïthar, 3 vols, Paris, 1877-1883"
+      ]
+    },
+    {
+      "shelfmark": "MS Arabe 2484",
+      "title_arabic": "فصل المقال فيما بين الحكمة والشريعة من الاتصال",
+      "title_translit": "Faṣl al-Maqāl fī-mā bayna al-Ḥikma wa-al-Sharīʿa min al-Ittiṣāl",
+      "title_turkish": "Faslü'l-Makâl (Felsefe ile Dinin İttisali)",
+      "author": "İbn Rüşd (Averroes)",
+      "author_death_year": "1198 CE",
+      "origin": "Córdoba / Seville",
+      "date_copied": "14th c. CE",
+      "language": "Arabic",
+      "script": "Maghrebi",
+      "folios": "48 folios",
+      "illustrations": false,
+      "illustration_description": "None.",
+      "subject": "Philosophy of Religion & Epistemology",
+      "latin_translation": "Hebrew translation by Todros Todrosi (1340), Latin Renaissance editions",
+      "historical_importance": "Foundational treatise arguing that the pursuit of philosophy and rational demonstration is not merely permitted but legally obligatory (wājib) for qualified minds.",
+      "references": [
+        "Hourani, G. F., Averroes on the Harmony of Religion and Philosophy, London, 1961"
+      ]
+    },
+    {
+      "shelfmark": "MS Latin 6882",
+      "title_arabic": "ترجمة لاتينية لجراحة الزهراوي",
+      "title_translit": "Cyrurgia Albucasis cum instrumentis",
+      "title_turkish": "Zehrâvî Cerrahisinin Cremonalı Gerard Çevirisi",
+      "author": "Abulcasis (translated by Gerard of Cremona)",
+      "author_death_year": "Translator d. 1187 CE",
+      "origin": "Toledo Translation School",
+      "date_copied": "circa 1260 CE",
+      "language": "Latin",
+      "script": "Gothic textualis",
+      "folios": "135 folios",
+      "illustrations": true,
+      "illustration_description": "Illuminated initials and marginal red-black instrument pen drawings adapting Arabic prototypes for European hospital surgeons.",
+      "subject": "Medieval Surgery",
+      "latin_translation": "Direct primary witness of the 12th c. Toledo Latin translation",
+      "historical_importance": "Used as the official textbook in the medical faculties of Montpellier, Bologna, and Paris.",
+      "references": [
+        "Jacquart, D., La médecine médiévale dans le cadre parisien, Paris, 1998"
+      ]
+    }
+  ]
+}

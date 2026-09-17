@@ -1,0 +1,121 @@
+{
+  "corpus_name": "Toledo School of Translators Registry (12th - 13th Century)",
+  "historical_patrons": [
+    "Archbishop Raymond of Toledo (Don Raimundo de Sauvetât, in office 1125–1152)",
+    "King Alfonso X of Castile (El Sabio, r. 1252–1284)"
+  ],
+  "description": "Systematic documentation of Arabic scientific, mathematical, medical, and philosophical treatises translated into Latin and Castilian in Toledo.",
+  "translations": [
+    {
+      "id": "trans-001",
+      "author_arabic": "Ebû'l-Kâsım ez-Zehrâvî (Abulcasis)",
+      "work_arabic": "كتاب التصريف (المقالة 30 في الجراحة)",
+      "latin_title": "Chirurgia Albucasis cum Instrumentis",
+      "translator": "Gerard of Cremona (Gerardus Cremonensis)",
+      "translation_period": "circa 1150–1180 CE",
+      "location": "Toledo",
+      "discipline": "Surgery & Medicine",
+      "key_innovations_transferred": [
+        "Detailed illustrations and specifications of 200+ surgical instruments",
+        "Internal suturing with catgut (kedi bağırsağı ipliği)",
+        "Lithotomy technique (mesane taşı ameliyatı)",
+        "Systematic cauterization and surgical hemostasis"
+      ],
+      "impact_in_europe": "Textbook at Montpellier, Bologna, and Paris universities for over 400 years; cited extensively by Guy de Chauliac and Lanfranc of Milan."
+    },
+    {
+      "id": "trans-002",
+      "author_arabic": "İbnü'z-Zerkâle (Arzachel)",
+      "work_arabic": "الزيج الطليطلي ورسالة الصفيحة الزرقالية",
+      "latin_title": "Tabulae Toletanae (Toledo Tables) & Canones Arzachelis",
+      "translator": "Gerard of Cremona & John of Brescia",
+      "translation_period": "circa 1160–1180 CE",
+      "location": "Toledo",
+      "discipline": "Astronomy & Geodesy",
+      "key_innovations_transferred": [
+        "Universal astrolabe (saphaea / azafea) operable at any latitude without interchangeable plates",
+        "Precise coordinates of 84 astronomical observation points across the Mediterranean",
+        "Discovery and measurement of the proper motion of the solar apogee"
+      ],
+      "impact_in_europe": "Standard planetary tables in Western Europe until the Alfonsine Tables (1270s); established base meridian calculations."
+    },
+    {
+      "id": "trans-003",
+      "author_arabic": "Câbir bin Eflah el-İşbîlî (Geber)",
+      "work_arabic": "إصلاح المجسطي",
+      "latin_title": "Gebri Filii Affla Hispalensis de Astronomia Libri IX",
+      "translator": "Gerard of Cremona",
+      "translation_period": "circa 1170 CE",
+      "location": "Toledo",
+      "discipline": "Spherical Trigonometry & Astronomy",
+      "key_innovations_transferred": [
+        "Geber's Theorem for solving right-angled spherical triangles",
+        "Rigorous analytical critique of Ptolemaic planetary order regarding Mercury and Venus",
+        "Systematic derivation of the sine rule without relying on Menelaus' theorem"
+      ],
+      "impact_in_europe": "Directly incorporated by Regiomontanus in De Triangulis Omnimodis (1464), laying the basis for early modern European trigonometry."
+    },
+    {
+      "id": "trans-004",
+      "author_arabic": "İbn Rüşd (Averroes)",
+      "work_arabic": "الشروح الكبرى والوسطى على أرسطو (كتاب النفس، ما بعد الطبيعة، السماء والعالم)",
+      "latin_title": "Commentaria Magna in Aristotelem (De Anima, Metaphysica, De Caelo)",
+      "translator": "Michael Scot & Dominicus Gundissalinus",
+      "translation_period": "circa 1217–1235 CE",
+      "location": "Toledo / Court of Frederick II (Sicily)",
+      "discipline": "Aristotelian Philosophy & Metaphysics",
+      "key_innovations_transferred": [
+        "Pure Aristotelian rationalism freed from Neoplatonic distortions",
+        "Concept of the unity of the material intellect (monopsychism debate)",
+        "Methodological separation between demonstrative rational proof (burhān) and dialectical theology"
+      ],
+      "impact_in_europe": "Sparked the rise of Latin Averroism at Paris and Padua universities; prompted the Condemnations of 1277 and Aquinas's Summa Theologiae."
+    },
+    {
+      "id": "trans-005",
+      "author_arabic": "İbn Zühr (Avenzoar)",
+      "work_arabic": "كتاب التيسير في المداواة والتدبير",
+      "latin_title": "Liber Teisir sive Rectificatio Medicationis et Regiminis",
+      "translator": "Jacob Frances (into Hebrew) & John of Capua (into Latin)",
+      "translation_period": "1280–1290 CE",
+      "location": "Toledo / Padua",
+      "discipline": "Clinical Medicine & Pathology",
+      "key_innovations_transferred": [
+        "Animal experimentation for validating surgical interventions (tracheotomy on goats)",
+        "Detailed pathological differentiation of pericarditis and pleurisy",
+        "Parasitological identification of the scabies mite (it-mite)"
+      ],
+      "impact_in_europe": "Published in multiple Venice incunabula (1490, 1496, 1514) together with Averroes' Colliget (Kulliyyāt)."
+    },
+    {
+      "id": "trans-006",
+      "author_arabic": "Nûrüddîn el-Bitrûcî (Alpetragius)",
+      "work_arabic": "كتاب في الهيئة",
+      "latin_title": "De Motibus Celorum",
+      "translator": "Michael Scot",
+      "translation_period": "1217 CE",
+      "location": "Toledo",
+      "discipline": "Cosmology & Celestial Mechanics",
+      "key_innovations_transferred": [
+        "Homocentric spherical cosmology replacing Ptolemaic epicycles with spiral motions",
+        "Dynamic physical approach to celestial kinematics"
+      ],
+      "impact_in_europe": "Sparked vigorous debates among Roger Bacon, Robert Grosseteste, and was cited by Nicolaus Copernicus in De revolutionibus orbium coelestium."
+    },
+    {
+      "id": "trans-007",
+      "author_arabic": "İbn Tufeyl (Abubacer)",
+      "work_arabic": "رسالة حي بن يقظان",
+      "latin_title": "Philosophus Autodidactus",
+      "translator": "Edward Pococke (Latin) & George Keith (English)",
+      "translation_period": "1671 CE (Oxford)",
+      "location": "Oxford / London",
+      "discipline": "Epistemology & Political Philosophy",
+      "key_innovations_transferred": [
+        "Concept of human mind as a blank slate (tabula rasa) acquiring knowledge through sensory empiricism and rational deduction",
+        "Harmony between solitary natural reason and revealed religion"
+      ],
+      "impact_in_europe": "Direct philosophical precursor to John Locke's empiricism and the Enlightenment philosophical novel genre."
+    }
+  ]
+}

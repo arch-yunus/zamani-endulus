@@ -1,0 +1,28 @@
+{
+  "project": "Zamân-ı Endülüs",
+  "description": "Cross-repository catalog indexing key surviving Andalusian scientific, medical, and philosophical manuscripts in European archives.",
+  "libraries": [
+    {
+      "name": "Real Biblioteca del Monasterio de San Lorenzo de El Escorial",
+      "file": "escorial_catalog.json",
+      "records": 6
+    },
+    {
+      "name": "Bibliothèque nationale de France (BnF)",
+      "file": "bnf_paris_catalog.json",
+      "records": 4
+    },
+    {
+      "name": "Bodleian Library, University of Oxford",
+      "file": "bodleian_oxford_catalog.json",
+      "records": 3
+    },
+    {
+      "name": "Biblioteca Apostolica Vaticana",
+      "file": "vatican_catalog.json",
+      "records": 3
+    }
+  ],
+  "total_indexed_manuscripts": 16,
+  "last_updated": "2026-09"
+}

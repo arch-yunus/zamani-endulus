@@ -1,0 +1,46 @@
+{
+  "title": "Chronology of the Andalusian-European Knowledge Transmission",
+  "eras": [
+    {
+      "period": "1125–1152 CE",
+      "title": "The Raymondine Foundation Era in Toledo",
+      "patron": "Archbishop Raymond of Toledo",
+      "key_figures": [
+        "Dominicus Gundissalinus",
+        "John of Seville (Ibn Dāwūd / Avendauth)"
+      ],
+      "focus": "Philosophical treatises of Ibn Sīnā, Al-Fārābī, and Andalusian mathematical primers."
+    },
+    {
+      "period": "1150–1187 CE",
+      "title": "The Golden Age of Gerard of Cremona",
+      "patron": "Cathedral Chapter of Toledo",
+      "key_figures": [
+        "Gerard of Cremona (Gerardus Cremonensis)"
+      ],
+      "focus": "Monumental translation of over 70 scientific masterworks including Al-Zahrāwī's Chirurgia, Al-Zarqālī's Toledo Tables, Jabir ibn Aflah's astronomy, Euclid's Elements, and Ptolemy's Almagest from Arabic."
+    },
+    {
+      "period": "1200–1240 CE",
+      "title": "The Averroistic Wave & Imperial Patronage",
+      "patron": "Holy Roman Emperor Frederick II & Kings of Castile",
+      "key_figures": [
+        "Michael Scot",
+        "William of Luna",
+        "Theodore of Antioch"
+      ],
+      "focus": "İbn Rüşd's Great and Middle Commentaries on Aristotle; Al-Biṭrūjī's homocentric cosmology."
+    },
+    {
+      "period": "1252–1284 CE",
+      "title": "The Alfonsine Scriptorium and Castilian Vernacularization",
+      "patron": "King Alfonso X of Castile (El Sabio)",
+      "key_figures": [
+        "Yehuda ben Moshe",
+        "Isaac ibn Sid",
+        "Samuel ha-Levi"
+      ],
+      "focus": "Creation of the Tablas Alfonsíes (Alfonsine Tables), Libros del Saber de Astronomía, translating directly from Arabic into Castilian and Latin."
+    }
+  ]
+}

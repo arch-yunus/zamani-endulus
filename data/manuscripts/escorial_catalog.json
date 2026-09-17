@@ -1,0 +1,140 @@
+{
+  "repository": "Real Biblioteca del Monasterio de San Lorenzo de El Escorial",
+  "city": "San Lorenzo de El Escorial, Madrid",
+  "country": "Spain",
+  "collection": "Colección de Manuscritos Árabes",
+  "total_records": 6,
+  "manuscripts": [
+    {
+      "shelfmark": "MS Árabe 887",
+      "title_arabic": "كتاب التصريف لمن عجز عن التأليف (المقالة الثلاثون)",
+      "title_translit": "Kitāb al-Taṣrīf li-man ʿajiza ʿan al-taʾlīf (Maqāla 30)",
+      "title_turkish": "Kitâbü't-Tasrîf - 30. Makale: el-Amel bi'l-Yed (Cerrahi ve Aletler)",
+      "author": "Ebû'l-Kâsım Halef bin Abbâs ez-Zehrâvî (Abulcasis)",
+      "author_death_year": "1013 CE",
+      "origin": "Madīnat al-Zahrāʾ / Córdoba (Qurṭubah)",
+      "date_copied": "circa 13th c. CE",
+      "language": "Arabic",
+      "script": "Maghrebi / Andalusi cursive",
+      "folios": "188 folios",
+      "illustrations": true,
+      "illustration_description": "Over 200 ink drawings of surgical instruments, cauteries, scalpels, bone saws, vaginal speculums, and catheters.",
+      "subject": "Medicine & Surgery",
+      "latin_translation": "Chirurgia (translated by Gerard of Cremona in Toledo, 12th c.)",
+      "historical_importance": "The founding surgical manual of European medicine; introduced catgut internal suturing, lithotomy positions, and detailed mechanical instrument morphology.",
+      "references": [
+        "Derenbourg, H., Les manuscrits arabes de l'Escurial, Paris, 1884",
+        "Spink & Lewis, Albucasis on Surgery and Instruments, 1973"
+      ]
+    },
+    {
+      "shelfmark": "MS Árabe 903",
+      "title_arabic": "الزيج الطليطلي ورسالة الصفيحة الزرقالية",
+      "title_translit": "Al-Zīj al-Ṭulayṭulī wa-Risālat al-Ṣafīḥa al-Zarqāliyya",
+      "title_turkish": "Tuleytula Zîci ve Evrensel Usturlap Risalesi",
+      "author": "Ebû İshâk İbrâhîm bin Yahyâ ez-Zerkâlî (Arzachel)",
+      "author_death_year": "1087 CE / 1100 CE",
+      "origin": "Toledo (Ṭulayṭulah) / Córdoba",
+      "date_copied": "14th c. CE",
+      "language": "Arabic",
+      "script": "Andalusi",
+      "folios": "112 folios",
+      "illustrations": true,
+      "illustration_description": "Geometric projection drawings of the azafea (universal astrolabe) stereographic projection without latitude plate dependency.",
+      "subject": "Astronomy & Mathematics",
+      "latin_translation": "Tabulae Toletanae & Canones Arzachelis (Gerard of Cremona / John of Brescia)",
+      "historical_importance": "Corrected Mediterranean longitudinal dimension from Ptolemy's 62° to 42°; proved the motion of solar apogee (12.04 arcseconds/year).",
+      "references": [
+        "Toomer, G. J., The Solar Theory of az-Zarqal, Centaurus, 1969",
+        "Puig, R., Los Tratados de la Azafea, Madrid, 1987"
+      ]
+    },
+    {
+      "shelfmark": "MS Árabe 620",
+      "title_arabic": "كتاب الفلاحة",
+      "title_translit": "Kitāb al-Filāḥa",
+      "title_turkish": "Kitâbü'l-Filâha (Ziraat ve Toprak İlmi Kitabı)",
+      "author": "Ebû Zekeriyyâ Yahyâ bin Muhammed b. el-Avvâm el-İşbîlî",
+      "author_death_year": "Late 12th c. CE",
+      "origin": "Seville (Išbīliya)",
+      "date_copied": "15th c. CE",
+      "language": "Arabic",
+      "script": "Maghrebi Andalusi",
+      "folios": "244 folios",
+      "illustrations": false,
+      "illustration_description": "None, contains detailed tables of soil strata, seasonal irrigation regimes, and grafting charts.",
+      "subject": "Agronomy & Hydraulic Engineering",
+      "latin_translation": "Libro de Agricultura (translated into Spanish by Banqueri, 1802)",
+      "historical_importance": "The most comprehensive medieval treatise on agronomy; describes 585 cultivated plants, 50+ fruit trees, soil pedology, and drip irrigation using porous terracotta vessels.",
+      "references": [
+        "Banqueri, J. A., Libro de Agricultura, Madrid, 1802",
+        "García Sánchez, E., El tratado agrícola de Ibn al-Awwam, 1992"
+      ]
+    },
+    {
+      "shelfmark": "MS Árabe 638",
+      "title_arabic": "تهافت التهافت",
+      "title_translit": "Tahāfut al-Tahāfut",
+      "title_turkish": "Tehâfütü't-Tehâfüt (Çelişkilerin Çelişkisi)",
+      "author": "Ebû'l-Velîd Muhammed bin Ahmed bin Rüşd (Averroes)",
+      "author_death_year": "1198 CE",
+      "origin": "Córdoba / Marrakech",
+      "date_copied": "1312 CE",
+      "language": "Arabic",
+      "script": "Maghrebi-Andalusi",
+      "folios": "165 folios",
+      "illustrations": false,
+      "illustration_description": "Marginal scholia and philosophical glosses in Maghrebi script.",
+      "subject": "Rationalist Philosophy & Epistemology",
+      "latin_translation": "Destructio Destructionum (translated by Calo Calonymos, 1328)",
+      "historical_importance": "Systematic rebuttal of Al-Ghazali's Tahafut al-Falasifa; rigorous defence of causality, necessary connection, and demonstrative proof (burhān).",
+      "references": [
+        "Bouyges, M., Averroès: Tahafot at-Tahafot, Beyrouth, 1930",
+        "Van den Bergh, S., Averroes' Tahafut al-Tahafut, 1954"
+      ]
+    },
+    {
+      "shelfmark": "MS Árabe 834",
+      "title_arabic": "كتاب التيسير في المداواة والتدبير",
+      "title_translit": "Kitāb al-Taysīr fī al-Mudāwāt wa-al-Tadbīr",
+      "title_turkish": "Kitâbü't-Teysîr fi'l-Müdâvât ve't-Tedbîr (Tedavi ve Sağlık Rehberi)",
+      "author": "Ebû Mervân Abdülmelik bin Zühr (Avenzoar)",
+      "author_death_year": "1162 CE",
+      "origin": "Seville (Išbīliya)",
+      "date_copied": "13th c. CE",
+      "language": "Arabic",
+      "script": "Andalusi cursive",
+      "folios": "142 folios",
+      "illustrations": false,
+      "illustration_description": "Contains clinical case notes, diagnostic protocols, and post-mortem observations.",
+      "subject": "Medicine & Experimental Pathology",
+      "latin_translation": "Liber Teisir (translated into Hebrew by Jacob Frances, then Latin by John of Capua, Venice 1490)",
+      "historical_importance": "Pioneered experimental tracheotomy on animals (goats); first clinical description of pericarditis, mediastinal tumors, and the scabies mite (Sarcoptes scabiei).",
+      "references": [
+        "Colin, G., La medecine de l'occident musulman: Ibn Zohr, Paris, 1911",
+        "Arnaldez, R., Ibn Zuhr, EI2"
+      ]
+    },
+    {
+      "shelfmark": "MS Árabe 935",
+      "title_arabic": "إصلاح المجسطي",
+      "title_translit": "Iṣlāḥ al-Majisṭī",
+      "title_turkish": "Islâhu'l-Mecistî (Batlamyus Almagest'inin Düzeltilmesi)",
+      "author": "Ebû Muhammed Câbir bin Eflah el-İşbîlî (Geber)",
+      "author_death_year": "c. 1145 CE",
+      "origin": "Seville (Išbīliya)",
+      "date_copied": "13th c. CE",
+      "language": "Arabic",
+      "script": "Maghrebi",
+      "folios": "98 folios",
+      "illustrations": true,
+      "illustration_description": "Geometric proofs, spherical trigonometry diagrams, and planetary orbit corrections.",
+      "subject": "Astronomy & Spherical Trigonometry",
+      "latin_translation": "Gebri Filii Affla Hispalensis de Astronomia Libri IX (Gerard of Cremona, printed Nuremberg 1534)",
+      "historical_importance": "Invented Geber's theorem for right spherical triangles (cos A = cos a · sin B); placed Venus and Mercury above the Sun instead of below based on lack of observable parallax.",
+      "references": [
+        "Lorch, R. P., Jabir ibn Aflah and the Establishment of Trigonometry in the West, 1975"
+      ]
+    }
+  ]
+}

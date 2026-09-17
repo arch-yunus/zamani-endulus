@@ -1,0 +1,73 @@
+{
+  "repository": "Bodleian Library, University of Oxford",
+  "city": "Oxford",
+  "country": "United Kingdom",
+  "collection": "Oriental Manuscripts - Pococke & Huntington Collections",
+  "total_records": 3,
+  "manuscripts": [
+    {
+      "shelfmark": "MS Pococke 263",
+      "title_arabic": "رسالة حي بن يقظان في أسرار الحكمة المشرقية",
+      "title_translit": "Risālat Ḥayy ibn Yaqẓān fī Asrār al-Ḥikma al-Mashriqiyya",
+      "title_turkish": "Hayy bin Yakzân (Tabula Rasa ve Akli Felsefe)",
+      "author": "Ebû Bekr Muhammed bin Abdilmelik bin Tufeyl el-Kaysî (Abubacer)",
+      "author_death_year": "1185 CE",
+      "origin": "Guadix (Wādī Āsh) / Granada / Marrakech",
+      "date_copied": "1303 CE",
+      "language": "Arabic",
+      "script": "Eastern/Maghrebi hybrid Naskh",
+      "folios": "88 folios",
+      "illustrations": false,
+      "illustration_description": "None.",
+      "subject": "Philosophical Romance & Empirical Epistemology",
+      "latin_translation": "Philosophus Autodidactus (translated into Latin by Edward Pococke, Oxford 1671)",
+      "historical_importance": "Profoundly influenced Enlightenment philosophy; inspired John Locke's tabula rasa theory in An Essay Concerning Human Understanding and Daniel Defoe's Robinson Crusoe.",
+      "references": [
+        "Pococke, E., Philosophus Autodidactus, Oxford, 1671",
+        "Gauthier, L., Ibn Thofaïl, sa vie, ses œuvres, Paris, 1909"
+      ]
+    },
+    {
+      "shelfmark": "MS Huntington 156",
+      "title_arabic": "كتاب التصريف لمن عجز عن التأليف",
+      "title_translit": "Kitāb al-Taṣrīf li-man ʿajiza ʿan al-taʾlīf",
+      "title_turkish": "Kitâbü't-Tasrîf (Bodleian Nüshası)",
+      "author": "Ebû'l-Kâsım ez-Zehrâvî",
+      "author_death_year": "1013 CE",
+      "origin": "Al-Andalus",
+      "date_copied": "circa 1275 CE",
+      "language": "Arabic",
+      "script": "Maghrebi calligraphic",
+      "folios": "212 folios",
+      "illustrations": true,
+      "illustration_description": "Exquisite red, black, and green ink drawings of obstetrical forcep variants, trocars, bone levers, and dental scrapers.",
+      "subject": "Medicine & Surgery",
+      "latin_translation": "Chirurgia",
+      "historical_importance": "Primary base manuscript used by John Channing for the editio princeps of Albucasis in Oxford (1778).",
+      "references": [
+        "Channing, J., Albucasis de Chirurgia Arabice et Latine, 2 vols, Clarendon Press, Oxford, 1778"
+      ]
+    },
+    {
+      "shelfmark": "MS Marsh 598",
+      "title_arabic": "كتاب في الهيئة (حركات الأفلاك)",
+      "title_translit": "Kitāb fī al-Hayʾa",
+      "title_turkish": "Kitâb fi'l-Hey'e (Homosentrik Gezegen Hareketleri)",
+      "author": "Ebû İshâk Nûrüddîn el-Bitrûcî (Alpetragius)",
+      "author_death_year": "c. 1204 CE",
+      "origin": "Pedroche (Biṭrawsh) / Córdoba / Seville",
+      "date_copied": "13th c. CE",
+      "language": "Arabic with Judeo-Arabic glosses",
+      "script": "Maghrebi",
+      "folios": "104 folios",
+      "illustrations": true,
+      "illustration_description": "Spherical geometric schemes demonstrating spiral motions (ḥaraka lawlabiyya) without Ptolemaic epicycles.",
+      "subject": "Theoretical Astronomy & Cosmology",
+      "latin_translation": "De motibus celorum (translated by Michael Scot, Toledo 1217)",
+      "historical_importance": "First major non-Ptolemaic physical astronomical system in medieval Europe; cited and analyzed by Robert Grosseteste, Roger Bacon, and Copernicus in De revolutionibus.",
+      "references": [
+        "Goldstein, B. R., Al-Bitruji: On the Principles of Astronomy, 2 vols, Yale University Press, 1971"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "repository": "Biblioteca Apostolica Vaticana",
+  "city": "Vatican City",
+  "country": "Vatican City State",
+  "collection": "Fondo Vaticano Arabo & Fondo Vaticano Latino",
+  "total_records": 3,
+  "manuscripts": [
+    {
+      "shelfmark": "Vat. ar. 318",
+      "title_arabic": "كتاب الأدوية المفردة",
+      "title_translit": "Kitāb al-Adwiya al-Mufrada",
+      "title_turkish": "Müfred İlaçlar Risalesi",
+      "author": "Ebû Caʿfer Ahmed bin Muhammed el-Gāfikī",
+      "author_death_year": "1165 CE",
+      "origin": "Guajoz (Gāfiq) / Córdoba",
+      "date_copied": "14th c. CE",
+      "language": "Arabic",
+      "script": "Andalusi Maghrebi",
+      "folios": "156 folios",
+      "illustrations": false,
+      "illustration_description": "Descriptive botanical annotations with Greek and Latin binomial cross-references.",
+      "subject": "Pharmacology & Botany",
+      "latin_translation": "Quoted and abstracted by Barhebraeus and translated into Hebrew",
+      "historical_importance": "The primary foundation for Ibn al-Baytar's pharmacopoeia; introduced rigorous botanical precision in plant morphology and habitats.",
+      "references": [
+        "Meyerhof, M. & Sobhy, G. P., The Abridged Version of the Book of Simple Drugs of Ahmad ibn Muhammad al-Ghafiqi, Cairo, 1932"
+      ]
+    },
+    {
+      "shelfmark": "Vat. lat. 2085",
+      "title_arabic": "مجموعة ترجمات جيرارد الكريموني الطليطلية",
+      "title_translit": "Corpus Translationum Toletanarum Gerardi Cremonensis",
+      "title_turkish": "Toledo Tercüme Mektebi Gerard of Cremona Külliyatı",
+      "author": "Gerard of Cremona (Mütercim)",
+      "author_death_year": "1187 CE",
+      "origin": "Toledo",
+      "date_copied": "13th c. CE",
+      "language": "Latin",
+      "script": "Gothic bookhand",
+      "folios": "280 folios",
+      "illustrations": true,
+      "illustration_description": "Astronomical tables, geometric proofs from Jabir ibn Aflah and al-Zarqali.",
+      "subject": "Transmission of Science",
+      "latin_translation": "Primary compilation containing Latin translations of 12 Andalusian and Baghdadi scientific classics",
+      "historical_importance": "The quintessential manuscript witness documenting the systematic transfer of Arabic sciences to Western Christendom in 12th century Toledo.",
+      "references": [
+        "Burnett, C., The Coherence of the Arabic-Latin Translation Programme in Toledo in the Twelfth Century, 2001"
+      ]
+    },
+    {
+      "shelfmark": "Vat. lat. 4482",
+      "title_arabic": "الشروح الكبرى لابن رشد على أرسطو",
+      "title_translit": "Commentaria Magna Averrois in Aristotelem",
+      "title_turkish": "İbn Rüşd'ün Aristoteles Büyük Şerhleri Latin Nüshası",
+      "author": "Averroes (translated by Michael Scot and William of Luna)",
+      "author_death_year": "1198 CE",
+      "origin": "Toledo / Padua",
+      "date_copied": "circa 1300 CE",
+      "language": "Latin",
+      "script": "Scholastic cursive",
+      "folios": "320 folios",
+      "illustrations": false,
+      "illustration_description": "Extensive marginal glosses from Latin Averroists of Bologna and Padua.",
+      "subject": "Metaphysics & Natural Philosophy",
+      "latin_translation": "In libros De Anima, Metaphysica, Physica Aristotelis",
+      "historical_importance": "Formed the intellectual battlefield of 13th-century scholasticism; used directly by Thomas Aquinas in Summa Theologiae and De unitate intellectus contra Averroistas.",
+      "references": [
+        "Wolfson, H. A., Crescas' Critique of Aristotle, Harvard, 1929"
+      ]
+    }
+  ]
+}

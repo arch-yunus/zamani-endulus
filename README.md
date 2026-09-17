@@ -1,5 +1,9 @@
 # Zamân-ı Endülüs (zamani-endulus)
 
+<p align="center">
+  <img src="docs/images/zamani_endulus_banner.jpg" alt="Zamân-ı Endülüs Medeniyet Panoraması" width="100%" />
+</p>
+
 > *“Kayıp bir bahçenin izinde; Kurtuba kütüphanelerinden Toledo tercüme mekteplerine, Akdeniz’in zeytinliklerinden Elhamra’nın kemerlerine uzanan bilimsel, felsefi, edebi, mimari ve teknolojik miras külliyatı.”*
 
 ---
@@ -61,23 +65,43 @@ Endülüs (711–1492), salt yedi buçuk asır sürmüş bir siyasi hakimiyet sa
 Bu repo, Endülüs bilim ve düşünce mirasını beş temel ana eksen üzerinde monografik ve analitik olarak belgeler:
 
 ### 1. Cerrahi, Klinik Patoloji ve Farmakoloji Ekolü
+
+<p align="center">
+  <img src="docs/images/al_zahrawi_surgery_tools.jpg" alt="Ebû'l-Kâsım ez-Zehrâvî ve Cerrahi Alet Atölyesi" width="100%" />
+</p>
+
 * **Ebû'l-Kâsım ez-Zehrâvî (Abulcasis, 936–1013):** *Kitâbü't-Tasrîf* 30. cilt (*el-ʿAmel bi'l-Yed*) kapsamında modern cerrahinin temelleri; kedi bağırsağından emilebilir dikiş ipi (*catgut*), koterizasyon teknikleri, litotomi (taş çıkarma), jinekolojik spekulumlar, trakeotomi ve 200'den fazla ameliyat aletinin teknik morfolojisi.
 * **Ebû Mervân İbn Zühr (Avenzoar, 1094–1162):** *Kitâbü't-Teysîr fi'l-Müdâvât ve't-Tedbîr* ile spekülatif tıp yerine deneysel patolojinin ikamesi; hayvanlar (keçiler) üzerinde yapılan ameliyat deneyleri, perikardit ve mediastinal apselerin klinik ayrımı, uyuz mikrobunun (*Sarcoptes scabiei*) tespiti.
 * **İbnü'l-Baytâr (1197–1248):** *el-Câmiʿ li-Müfredâti'l-Edviye ve'l-Aġẕiye*; Akdeniz havzasından derlenen 1.400'den fazla tıbbi nebatat, mineral ve hayvansal ilacın taksonomisi; Grekçe, Latince, Berberice, Farsça ve Endülüs Romansçası eşanlamlılar sözlüğü.
 * **İbn Rüşd (Averroes, 1126–1198):** *Kitâbü'l-Külliyyât fi't-Tıbb* (Colliget); insan vücudunun genel fizyolojisi, hijyen kuralları ve tıbbın teorik ilkeleri.
 
 ### 2. Astronomi, Matematik ve Mekanik Enstrümantasyon
+
+<p align="center">
+  <img src="docs/images/al_zarqali_astronomy.jpg" alt="İbnü'z-Zerkâle ve Tuleytula Rasathanesinde Evrensel Usturlap" width="100%" />
+</p>
+
 * **İbnü'z-Zerkâle (Arzachel, 1029–1087):** Kutup noktalarından bağımsız, dünyanın her enleminde tek bir diskle çalışan evrensel usturlap (*Safîha ez-Zerkâliyye / Azafea*); Güneş evcinin (apogee) yılda 12.04 yay saniyesi hızla hareket ettiğinin kanıtı; *Tuleytula Cetvelleri* (Toledo Tables) ve Toledo mekanik su saatleri.
 * **Câbir bin Eflah (Geber, ö. c. 1145):** *Islâhu'l-Mecistî*; Batlamyus geosentrik sisteminin analitik reddi, dik açılı küresel üçgenler için **Geber Teoremi** ($\cos A = \cos a \cdot \sin B$), gezegenlerin Güneş diski önündeki paralaks analizleri.
 * **Nûreddin el-Bitrûcî (Alpetragius, ö. c. 1204):** *Kitâb fî'l-Hey'e*; episikl ve eksantrik çemberleri reddeden, gezegenlerin görünürdeki hareketlerini spiral salınımla açıklayan Aristo merkezli homosentrik küreler teorisi.
 
 ### 3. Rasyonalizm, Epistemoloji ve Mantık Metodolojisi
+
+<p align="center">
+  <img src="docs/images/ibn_rushd_philosophy.jpg" alt="İbn Rüşd Kurtuba Saray Kütüphanesinde Aristoteles Şerhlerini Telif Ederken" width="100%" />
+</p>
+
 * **İbn Rüşd (Averroes):** *Faslü'l-Makâl* (Felsefe ile dinin uzlaşımı, aklî burhânın fıkhî vücûbiyeti), *Tehâfütü't-Tehâfüt* (Gazzâlî'ye karşı sebep-sonuç / illiyet yasasının mutlak savunusu), *Büyük Aristoteles Şerhleri* (Büyük, Orta ve Küçük şerh geleneği).
 * **İbn Bâcce (Avempace, 1085–1138):** *Tedbîrü'l-Mütevahhid*; yozlaşmış toplumlarda erdemli bilgenin zihinsel yalnızlaşması (*nevâbit* teorisi), ruhani suretler ve Galileo mekaniğine öncülük eden serbest düşme/direnç fiziği ($v = F - R$).
 * **İbn Tufeyl (Abubacer, 1105–1185):** *Risâletü Hayy bin Yakzân*; tabula rasa (boş levha) epistemolojisi, tabiatı ampirik yöntemle disseksiyon ve gözlem yoluyla keşfeden otodidaktik akıl; John Locke ve Spinoza üzerindeki doğrudan tesir.
 * **İbn Hazm el-Endelüsî (994–1064):** *Kitâbü'l-Fasl fi'l-Milel ve'l-Ehvâʾ ve'n-Nihal* (Dinler ve mezhepler tarihi metodolojisi), *et-Takrîb li-Haddi'l-Mantık* (Aristo mantığının fıkha uygulanması), *Tavku'l-Hamâme* (Aşk ve insan psikolojisi).
 
 ### 4. Hidroloji, Tarım Teknolojileri (Filâha) ve Mimari Statik
+
+<p align="center">
+  <img src="docs/images/alhambra_hydraulic_gardens.jpg" alt="Elhamra ve Cennetü'l-Ârif Hidro-Mühendislik ve Bahçe Mimarisi" width="100%" />
+</p>
+
 * **İbn Bassâl ve İbnü'l-Avvâm:** *Kitâbü'l-Filâha*; toprak türlerinin su tutma kapasitesi ve mineral dengesine göre 10 sınıfa ayrıldığı pedolojik analizler, 585 kültür bitkisi taksonomisi, teraslama ve ağaç aşılama metotları.
 * **Hidrolik Mühendisliği:** Guadalquivir ve Turia nehirleri üzerindeki akıntı gücüyle çalışan dev su dolapları (*noria*), dağ akiferlerinden şehirlere su taşıyan yer altı kehrizleri (*qanat*), yerçekimi esaslı ark şebekeleri (*acequia*) ve 10. yüzyıldan beri kesintisiz işleyen **Valensiya Su Mahkemesi** (*Tribunal de las Aguas*).
 * **Mimari Akustik ve Statik:** Kurtuba Ulu Camii'nin çift katlı almaşık at nalı kemer sistemi (sismik şok sönümleme dinamiği), Medînetü'z-Zehrâ teraslı sıhhi drenaj ağı, Elhamra ve Cennetü'l-Ârif (*Generalife*) saraylarındaki hidrostatik basınç dengeleme ve fıskiye fiziği.

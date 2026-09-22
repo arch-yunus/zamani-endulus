@@ -1,0 +1,94 @@
+{
+  "repository": "Süleymaniye Yazma Eser Kütüphanesi & Köprülü Koleksiyonu",
+  "city": "İstanbul",
+  "country": "Türkiye",
+  "collection": "Ayasofya, Fatih ve Köprülü Yazma Eser Fonları",
+  "total_records": 4,
+  "manuscripts": [
+    {
+      "shelfmark": "Süleymaniye Ayasofya MS 3645",
+      "title_arabic": "نزهة المشتاق في اختراق الآفاق",
+      "title_translit": "Nuzhat al-Mushtāq fī Ikhtirāq al-Āfāq",
+      "title_turkish": "Nüzhetü'l-Müştâk (İdrîsî Coğrafyası ve Harita Paftaları)",
+      "author": "Ebû Abdillâh Muhammed bin Muhammed eş-Şerîf el-İdrîsî",
+      "author_death_year": "1165 CE",
+      "origin": "Ceuta (Sebte) / Palermo / İstanbul",
+      "date_copied": "14th c. CE",
+      "language": "Arabic",
+      "script": "Nesih hat / Doğu-Mağrip hibrit",
+      "folios": "320 folios",
+      "illustrations": true,
+      "illustration_description": "Tam sayfa renkli iklim kuşağı haritaları, Akdeniz havzası, Karadeniz ve İber Yarımadası detayları.",
+      "subject": "Geography & Cartography",
+      "latin_translation": "Tabula Rogeriana / Geographia Nubiensis (Rome 1619)",
+      "historical_importance": "İdrîsî'nin dünya haritasının günümüze ulaşan en eksiksiz ve en iyi korunmuş birkaç doğu yazmasından biri; Osmanlı denizcileri tarafından da incelenmiştir.",
+      "references": [
+        "Sezgin, Fuat, İslam'da Bilim ve Teknik (Cilt 3: Coğrafya), İstanbul, 2007",
+        "İhsanoğlu, E., Osmanlı Coğrafya Literatürü Tarihi, IRCICA, 2000"
+      ]
+    },
+    {
+      "shelfmark": "Süleymaniye Fatih MS 3165",
+      "title_arabic": "شرح كتاب ما بعد الطبيعة وتلخيص كتاب النفس",
+      "title_translit": "Sharḥ Kitāb Mā Baʿda al-Ṭabīʿa wa-Talkhīṣ Kitāb al-Nafs",
+      "title_turkish": "İbn Rüşd Metafizik ve Nefs Şerhleri",
+      "author": "Ebû'l-Velîd Muhammed bin Ahmed bin Rüşd (Averroes)",
+      "author_death_year": "1198 CE",
+      "origin": "Córdoba / Marrakech",
+      "date_copied": "1342 CE",
+      "language": "Arabic",
+      "script": "Mağribî / Endülüs kırması",
+      "folios": "218 folios",
+      "illustrations": false,
+      "illustration_description": "Kenar şerhleri ve felsefi derkenarlar.",
+      "subject": "Rationalist Philosophy & Epistemology",
+      "latin_translation": "Commentaria Magna in Metaphysicam (Michael Scot)",
+      "historical_importance": "Fatih Sultan Mehmed'in kütüphanesi için temin edilen ve Hocazâde ile Ali Tûsî'nin Tehâfüt tartışmalarında başvurduğu temel Endülüs nüshası.",
+      "references": [
+        "Kaya, M., İbn Rüşd Felsefesi ve Tehâfüt Geleneği, İstanbul, 1986"
+      ]
+    },
+    {
+      "shelfmark": "Köprülü Kütüphanesi MS 954",
+      "title_arabic": "رسالة حي بن يقظان",
+      "title_translit": "Risālat Ḥayy ibn Yaqẓān",
+      "title_turkish": "Hayy bin Yakzân Felsefi Risalesi",
+      "author": "Ebû Bekr Muhammed bin Abdilmelik bin Tufeyl (Abubacer)",
+      "author_death_year": "1185 CE",
+      "origin": "Guadix / Granada",
+      "date_copied": "circa 1380 CE",
+      "language": "Arabic",
+      "script": "Nesih",
+      "folios": "64 folios",
+      "illustrations": false,
+      "illustration_description": "Yok.",
+      "subject": "Philosophical Romance & Empirical Epistemology",
+      "latin_translation": "Philosophus Autodidactus (Pococke, Oxford 1671)",
+      "historical_importance": "Osmanlı ulemasının yakından incelediği ve İbn Sina ekolüyle karşılaştırdığı nâdir Doğu koleksiyonu nüshası.",
+      "references": [
+        "Köprülü Yazma Eserler Kataloğu, Cilt 2, İstanbul, 1986"
+      ]
+    },
+    {
+      "shelfmark": "Süleymaniye Ayasofya MS 3704",
+      "title_arabic": "كتاب التصريف لمن عجز عن التأليف (كتاب الجراحة)",
+      "title_translit": "Kitāb al-Taṣrīf (al-Maqāla 30 fī al-Jirāḥa)",
+      "title_turkish": "Kitâbü't-Tasrîf Cerrahi Kitabı (İstanbul Nüshası)",
+      "author": "Ebû'l-Kâsım Halef bin Abbâs ez-Zehrâvî",
+      "author_death_year": "1013 CE",
+      "origin": "Madīnat al-Zahrāʾ / Córdoba",
+      "date_copied": "15th c. CE",
+      "language": "Arabic",
+      "script": "Nesih ile karışık Mağribî",
+      "folios": "196 folios",
+      "illustrations": true,
+      "illustration_description": "Kırmızı ve siyah mürekkeple çizilmiş 180'den fazla cerrahi neşter, dağlama aleti, forseps ve dağlama aparatları.",
+      "subject": "Medicine & Surgery",
+      "latin_translation": "Chirurgia Albucasis",
+      "historical_importance": "Osmanlı hekimbaşısı Şerefeddin Sabuncuoğlu'nun Cerrahiyyetü'l-Hâniyye eserini telif ederken istifade ettiği ana cerrahi metin.",
+      "references": [
+        "Uzel, İ., Şerefeddin Sabuncuoğlu: Cerrahiyyetü'l-Haniyye, TTK, Ankara, 1992"
+      ]
+    }
+  ]
+}

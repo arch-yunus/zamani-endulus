@@ -1,0 +1,96 @@
+{
+  "repository": "Leiden University Library (Legatum Warnerianum)",
+  "city": "Leiden",
+  "country": "Netherlands",
+  "collection": "Oriental Manuscripts Collection (Codices Orientales)",
+  "total_records": 4,
+  "manuscripts": [
+    {
+      "shelfmark": "Or. 886a",
+      "title_arabic": "نزهة المشتاق في اختراق الآفاق",
+      "title_translit": "Nuzhat al-Mushtāq fī Ikhtirāq al-Āfāq",
+      "title_turkish": "Nüzhetü'l-Müştâk (Leiden İdrîsî Nüshası)",
+      "author": "Ebû Abdillâh Muhammed bin Muhammed eş-Şerîf el-İdrîsî",
+      "author_death_year": "1165 CE",
+      "origin": "Palermo / Ceuta",
+      "date_copied": "circa 1300 CE",
+      "language": "Arabic",
+      "script": "Maghrebi-Andalusi calligraphy",
+      "folios": "285 folios",
+      "illustrations": true,
+      "illustration_description": "İber Yarımadası, Kuzey Afrika ve Akdeniz adalarını gösteren altın yaldızlı pafta haritalar.",
+      "subject": "Geography & Cartography",
+      "latin_translation": "Geographia Nubiensis",
+      "historical_importance": "Reinhart Dozy ve M. J. de Goeje'nin 1866 yılında Description de l'Afrique et de l'Espagne par Edrisi neşrinde temel aldığı birincil nüsha.",
+      "references": [
+        "Dozy, R. & De Goeje, M. J., Description de l'Afrique et de l'Espagne par Edrisi, Leiden: Brill, 1866",
+        "Voorhoeve, P., Handlist of Arabic Manuscripts in the Library of the University of Leiden, 1957"
+      ]
+    },
+    {
+      "shelfmark": "Or. 168",
+      "title_arabic": "تذكرة بالأخبار عن اتفاقات الأسفار",
+      "title_translit": "Tadhkira bi-al-Akhbār ʿan Ittifāqāt al-Asfār",
+      "title_turkish": "Rıhletü İbn Cübeyr (Akdeniz ve Haçlı Seyahatnâmesi)",
+      "author": "Ebû'l-Hüseyn Muhammed bin Ahmed bin Cübeyr el-Kinânî",
+      "author_death_year": "1217 CE",
+      "origin": "Valencia / Granada",
+      "date_copied": "13th c. CE",
+      "language": "Arabic",
+      "script": "Andalusi Naskh",
+      "folios": "168 folios",
+      "illustrations": false,
+      "illustration_description": "Liman rotaları ve mesafe cetvelleri.",
+      "subject": "Travelogue & Mediterranean Navigation",
+      "latin_translation": "The Travels of Ibn Jubayr (Wright 1852 / Broadhurst 1952)",
+      "historical_importance": "Orta Çağ Akdeniz denizciliği, Cenova gemiciliği ve Haçlı limanları üzerine dünyadaki en muteber yazma tanık.",
+      "references": [
+        "Wright, W., The Travels of Ibn Jubayr, Leiden, 1852",
+        "De Goeje, M. J., Catalogus Codicum Orientalium Bibliothecae Academiae Lugduno-Batavae, 1888"
+      ]
+    },
+    {
+      "shelfmark": "Or. 287",
+      "title_arabic": "ديوان ابن قزمان (إصابة الأغراض في ذكر الأعراض)",
+      "title_translit": "Dīwān Ibn Quzmān",
+      "title_turkish": "İbn Kazmân Zecel Dîvânı",
+      "author": "Ebû Bekr Muhammed bin Îsâ bin Kazmân (Ibn Quzman)",
+      "author_death_year": "1160 CE",
+      "origin": "Córdoba",
+      "date_copied": "14th c. CE",
+      "language": "Andalusian Arabic & Romance (Bilingual)",
+      "script": "Maghrebi cursive",
+      "folios": "140 folios",
+      "illustrations": false,
+      "illustration_description": "Harce (kharja) nakaratları rubricated kırmızı mürekkeple vurgulanmış.",
+      "subject": "Poetry & Romance Linguistics",
+      "latin_translation": "Cancionero Hispanoárabe (Corriente 1980)",
+      "historical_importance": "Avrupa dillerindeki en erken lirik kafiyeli şiir formunun (zecel ve harceler) korunduğu eşsiz edebi korpus.",
+      "references": [
+        "Corriente, F., Gramática, métrica y texto del Cancionero de Abán Quzmán, Madrid, 1980"
+      ]
+    },
+    {
+      "shelfmark": "Or. 927",
+      "title_arabic": "طوق الحمامة في الألفة والألاف",
+      "title_translit": "Ṭawq al-Ḥamāma fī al-Ulfah wa-al-Ullāf",
+      "title_turkish": "Güvercin Gerdanlığı (Tavku'l-Hamâme)",
+      "author": "Ebû Muhammed Alî bin Ahmed bin Saîd bin Hazm",
+      "author_death_year": "1064 CE",
+      "origin": "Córdoba / Játiva (Xàtiva)",
+      "date_copied": "1338 CE (Copied in Damascus from Andalusi autograph)",
+      "language": "Arabic",
+      "script": "Naskh with Maghrebi vocalization marks",
+      "folios": "94 folios",
+      "illustrations": false,
+      "illustration_description": "Yok.",
+      "subject": "Psychology of Love & Moral Philosophy",
+      "latin_translation": "Le Collier de la Colombe (Petrof 1914 / Pérès 1944)",
+      "historical_importance": "İbn Hazm'ın şaheserinin dünyada günümüze ulaşan yegane eksiksiz yazma nüshası (unicum codex).",
+      "references": [
+        "Petrof, D. K., Tawq al-Hamama, Leiden: Brill, 1914",
+        "Schmidt, J., Catalogue of Arabic Manuscripts in the Library of the University of Leiden, 2011"
+      ]
+    }
+  ]
+}

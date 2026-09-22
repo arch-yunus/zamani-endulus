@@ -1,6 +1,6 @@
 {
   "project": "Zamân-ı Endülüs",
-  "description": "Cross-repository catalog indexing key surviving Andalusian scientific, medical, and philosophical manuscripts in European archives.",
+  "description": "Cross-repository catalog indexing key surviving Andalusian scientific, medical, geographic, and philosophical manuscripts in European and Middle Eastern archives.",
   "libraries": [
     {
       "name": "Real Biblioteca del Monasterio de San Lorenzo de El Escorial",
@@ -21,8 +21,18 @@
       "name": "Biblioteca Apostolica Vaticana",
       "file": "vatican_catalog.json",
       "records": 3
+    },
+    {
+      "name": "Süleymaniye Yazma Eser Kütüphanesi & Köprülü Koleksiyonu",
+      "file": "suleymaniye_istanbul_catalog.json",
+      "records": 4
+    },
+    {
+      "name": "Leiden University Library (Legatum Warnerianum)",
+      "file": "leiden_catalog.json",
+      "records": 4
     }
   ],
-  "total_indexed_manuscripts": 16,
+  "total_indexed_manuscripts": 24,
   "last_updated": "2026-09"
 }

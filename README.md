@@ -210,11 +210,13 @@ zamani-endulus/
 ├── index.html                                  # İnteraktif Web Portalı & Katalog Gezgini
 │
 ├── data/                                       # Yapılandırılmış JSON Veri Tabanları
-│   ├── manuscripts/                            # Yazma Eser Demirbaş Katalogları
+│   ├── manuscripts/                            # Yazma Eser Demirbaş Katalogları (6 Kütüphane, 24 Nüsha)
 │   │   ├── escorial_catalog.json               # El Escorial Manastır Kütüphanesi Arşivi (Madrid)
 │   │   ├── bnf_paris_catalog.json              # Fransa Ulusal Kütüphanesi Arşivi (BnF Paris)
 │   │   ├── bodleian_oxford_catalog.json        # Oxford Üniversitesi Bodleian Kütüphanesi
 │   │   ├── vatican_catalog.json                # Vatikan Apostolik Kütüphanesi (Roma)
+│   │   ├── suleymaniye_istanbul_catalog.json   # Süleymaniye & Köprülü Yazma Eser Kütüphaneleri (İstanbul)
+│   │   ├── leiden_catalog.json                 # Leiden Üniversitesi Kütüphanesi - Legatum Warnerianum
 │   │   └── index.json                          # Bütünleşik meta-katalog dizini
 │   ├── translations/                           # Toledo Tercüme Mektebi Korpusu
 │   │   ├── toledo_school_corpus.json           # Çevrilen eserler, mütercimler ve Latin başlıkları
@@ -223,7 +225,7 @@ zamani-endulus/
 │       ├── historical_quotes.json              # 16 doğrulanmış birincil kaynaklı alıntı
 │       └── quotes_by_topic.json                # Disiplin ve tema bazlı alıntı indeksleri
 │
-├── monographs/                                 # 12 Kapsamlı Akademik Monografi
+├── monographs/                                 # 18 Kapsamlı Akademik Monografi (6 Disiplin)
 │   ├── medicine-surgery/
 │   │   ├── al-zahrawi_surgical_instruments.md  # Zehrâvî: Tasrîf 30, catgut, 200+ alet morfolojisi
 │   │   ├── ibn_zuhr_experimental_pathology.md  # İbn Zühr: Teysîr, trakeotomi hayvan deneyleri, perikardit
@@ -236,22 +238,35 @@ zamani-endulus/
 │   │   ├── ibn_rushd_rationalism_and_fasl_al-maqal.md # İbn Rüşd: Faslü'l-Makâl, Aristo şerhleri, illiyet
 │   │   ├── ibn_bajja_solitary_governance.md    # İbn Bâcce: Tedbîrü'l-Mütevahhid, nevâbit, serbest düşme
 │   │   └── ibn_tufayl_empiricism_and_hayy.md   # İbn Tufeyl: Hayy bin Yakzân, tabula rasa, Locke tesiri
-│   └── hydraulic-engineering/
-│       ├── andalusian_irrigation_acequias_norias.md # Su dolapları (Noria), acequialar, Valensiya Mahkemesi
-│       ├── ibn_bassal_and_ibn_al-awwam_agronomy.md # İbn Bassâl & İbnü'l-Avvâm: Ziraat, 10 toprak sınıfı
-│       └── mezquita_and_alhambra_hydro_statics.md # Kurtuba çift kemer statiği, Elhamra hidrolik seviyeleme
+│   ├── hydraulic-engineering/
+│   │   ├── andalusian_irrigation_acequias_norias.md # Su dolapları (Noria), acequialar, Valensiya Mahkemesi
+│   │   ├── ibn_bassal_and_ibn_al-awwam_agronomy.md # İbn Bassâl & İbnü'l-Avvâm: Ziraat, 10 toprak sınıfı
+│   │   └── mezquita_and_alhambra_hydro_statics.md # Kurtuba çift kemer statiği, Elhamra hidrolik seviyeleme
+│   ├── geography-cartography/
+│   │   ├── al-idrisi_tabula_rogeriana.md       # Şerîf el-İdrîsî: Nüzhetü'l-Müştâk & Tabula Rogeriana
+│   │   ├── al-bakri_kitab_al-masalik.md        # El-Bekrî: Kitâbü'l-Mesâlik ve'l-Memâlik coğrafyası
+│   │   └── ibn_jubayr_travelogue_and_navigation.md # İbn Cübeyr: Rıhle, Akdeniz gemiciliği & Haçlı limanları
+│   └── literature-aesthetics/
+│       ├── ziryab_court_reforms_and_modal_music.md # Ziryâb: 5 telli ud, nevbe formu, mûsiki & sofra devrimi
+│       ├── muwashshah_and_zajal_poetic_forms.md # Muvassah & Zecel: Harceler, kafiye inkılabı & Trubadurlar
+│       └── ibn_hazm_tawq_al-hamama_psychology.md # İbn Hazm: Tavku'l-Hamâme, aşk psikolojisi & ahlak
 │
-├── historiography/                             # Tarihyazımı, İntikal ve Tenkit Metinleri
+├── historiography/                             # 6 Tarihyazımı, İntikal ve Tenkit Metni
 │   ├── western-reception/
 │   │   ├── latin_averroism_and_paris_condemnations.md # Siger of Brabant, 1277 Mahkûmiyeti, Padova Okulu
-│   │   └── surgical_transmission_salerno_montpellier.md # Zehrâvî'nin Montpellier & Bologna cerrahisine etkisi
+│   │   ├── surgical_transmission_salerno_montpellier.md # Zehrâvî'nin Montpellier & Bologna cerrahisine etkisi
+│   │   └── gerbert_of_aurillac_and_abacus.md   # II. Sylvester: 10. yy Hint-Arap rakamları, abaküs & usturlap
 │   └── myth-busting/
 │       ├── curie_atom_myth_refutation.md       # Pierre Curie "30 kitap ve atom" uydurmasının analitik reddi
-│       └── anachronistic_attributions_critique.md # Popüler hamasi mitlerin tarihsel kaynak tenkidi
+│       ├── anachronistic_attributions_critique.md # Popüler hamasi mitlerin tarihsel kaynak tenkidi
+│       └── convivencia_reality_vs_myth.md      # Convivencia söylemi tenkidi ve toplumsal katmanlaşma
 │
 ├── tools/                                      # Python Komut Satırı Motorları ve Araçlar
 │   ├── __init__.py
+│   ├── build_site.py                           # Otomatik statik site derleyicisi ve veri enjektörü
+│   ├── corpus_stats.py                         # Külliyat istatistik ve analitik motoru CLI
 │   ├── manuscript_indexer.py                   # Yazma eser arama, filtreleme, şema kontrol CLI
+│   ├── translation_explorer.py                 # Toledo Tercüme Mektebi korpus sorgulama CLI
 │   ├── timeline_generator.py                   # 711-1492 kronoloji derleyicisi, Mermaid & JSON çıktısı
 │   └── quote_engine.py                         # Doğrulanmış birincil alıntı ve referans motoru
 │
@@ -259,14 +274,15 @@ zamani-endulus/
     ├── __init__.py
     ├── test_indexer.py                         # Yazma eser katalog ve şema doğrulama testleri
     ├── test_timeline.py                        # Kronoloji bütünlük ve Mermaid format testleri
-    └── test_quotes.py                          # Alıntı veri tabanı ve arama doğrulama testleri
+    ├── test_quotes.py                          # Alıntı veri tabanı ve arama doğrulama testleri
+    └── test_analytics_and_translations.py      # Külliyat analitiği ve tercüme sorgulama testleri
 ```
 
 ---
 
 ## 5. Yazma Eser Envanteri ve Kütüphane Rehberi
 
-Depoda indekslenen başlıca birincil yazmalar ve bulundukları dünya kütüphaneleri:
+Depoda indekslenen 24 birincil yazma ve bulundukları 6 dünya kütüphanesi:
 
 | Kütüphane / Arşiv | Demirbaş / Raf No | Eser (Transkripsiyon / Özgün Ad) | Müellif | Tarih | Konu / Alan |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -286,6 +302,14 @@ Depoda indekslenen başlıca birincil yazmalar ve bulundukları dünya kütüpha
 | **Vatikan Kütüphanesi** | `Vat. ar. 318` | *Kitāb al-Adwiya al-Mufrada* | El-Gāfikī | 14. yy | Tıbbi Botanik ve İlaçlar |
 | **Vatikan Kütüphanesi** | `Vat. lat. 2085` | *Corpus Translationum Toletanarum* | Gerard of Cremona | 13. yy | Toledo Bilimsel Çeviri Külliyatı |
 | **Vatikan Kütüphanesi** | `Vat. lat. 4482` | *Commentaria Magna in Aristotelem* | İbn Rüşd / Scot | c. 1300 CE | Latin Averroizmi Skolastik Nüshası |
+| **Süleymaniye** (İstanbul) | `Ayasofya MS 3645` | *Nuzhat al-Mushtāq (Tabula Rogeriana)* | Şerîf el-İdrîsî | 14. yy | Dünya Haritası & İklim Kuşakları |
+| **Süleymaniye** (İstanbul) | `Fatih MS 3165` | *Sharḥ Mā Baʿda al-Ṭabīʿa & al-Nafs* | İbn Rüşd | 1342 CE | Fatih Kitaplığı Metafizik Şerhi |
+| **Süleymaniye** (İstanbul) | `Ayasofya MS 3704` | *Kitāb al-Taṣrīf (Jirāḥa)* | Ez-Zehrâvî | 15. yy | Sabuncuoğlu'nun Kaynak Cerrahi Metni |
+| **Köprülü** (İstanbul) | `Köprülü MS 954` | *Risālat Ḥayy ibn Yaqẓān* | İbn Tufeyl | c. 1380 CE | Doğu Koleksiyonu Hayy Nüshası |
+| **Leiden Üniversitesi** | `Or. 886a` | *Nuzhat al-Mushtāq fī Ikhtirāq al-Āfāq* | Şerîf el-İdrîsî | c. 1300 CE | Dozy & De Goeje 1866 Neşir Nüshası |
+| **Leiden Üniversitesi** | `Or. 168` | *Tadhkira bi-al-Akhbār (Rıhletü İbn Cübeyr)* | İbn Cübeyr | 13. yy | Akdeniz & Haçlı Limanları Seyahatnâmesi |
+| **Leiden Üniversitesi** | `Or. 287` | *Dīwān Ibn Quzmān (Zecel)* | İbn Kazmân | 14. yy | Endülüs Romansçası & Zecel Şiiri |
+| **Leiden Üniversitesi** | `Or. 927` | *Ṭawq al-Ḥamāma (Güvercin Gerdanlığı)* | İbn Hazm | 1338 CE | Dünyada Günümüze Ulaşan Tek Nüsha (*Unicum*) |
 
 ---
 
@@ -328,21 +352,44 @@ timeline
 
 Depodaki Python motorları tamamen standart kütüphane ile çalışır, harici paket kurulumu gerektirmez:
 
-### 1. Yazma Eser İndeksleyicisi (`tools/manuscript_indexer.py`):
+### 1. Külliyat İstatistik ve Analitik Motoru (`tools/corpus_stats.py`):
+```bash
+# Külliyat özet raporunu görüntüleme
+python tools/corpus_stats.py
+
+# JSON formatında ham istatistik çıktısı alma
+python tools/corpus_stats.py --json
+```
+
+### 2. Yazma Eser İndeksleyicisi (`tools/manuscript_indexer.py`):
 ```bash
 # Şema doğruluğunu ve veri bütünlüğünü test etme
 python tools/manuscript_indexer.py --validate
 
 # Müellif, eser veya terim arama
 python tools/manuscript_indexer.py --search "Zehrâvî"
-python tools/manuscript_indexer.py --subject "Astronomy"
+python tools/manuscript_indexer.py --subject "Geography"
+python tools/manuscript_indexer.py --repo "Süleymaniye"
 
 # Markdown tablosu veya JSON olarak dışa aktarma
 python tools/manuscript_indexer.py --format markdown
 python tools/manuscript_indexer.py --repo "Escorial" --format json
 ```
 
-### 2. Tarihsel Kronoloji Derleyicisi (`tools/timeline_generator.py`):
+### 3. Toledo Tercüme Mektebi Gezgini (`tools/translation_explorer.py`):
+```bash
+# Tüm tercümeleri arama
+python tools/translation_explorer.py --search "Averroes"
+
+# Mütercim ve disipline göre filtreleme
+python tools/translation_explorer.py --translator "Gerard"
+python tools/translation_explorer.py --discipline "Medicine"
+
+# Markdown tablosu olarak dışa aktarma
+python tools/translation_explorer.py --format markdown
+```
+
+### 4. Tarihsel Kronoloji Derleyicisi (`tools/timeline_generator.py`):
 ```bash
 # Tüm hadiseleri listeleme
 python tools/timeline_generator.py
@@ -354,7 +401,7 @@ python tools/timeline_generator.py --category science
 python tools/timeline_generator.py --format mermaid
 ```
 
-### 3. Birincil Alıntılar ve Kaynak Motoru (`tools/quote_engine.py`):
+### 5. Birincil Alıntılar ve Kaynak Motoru (`tools/quote_engine.py`):
 ```bash
 # Doğrulanmış rastgele bir alıntı getirme
 python tools/quote_engine.py --random
@@ -366,7 +413,13 @@ python tools/quote_engine.py --category andalusian_scholars --format markdown
 python tools/quote_engine.py --search "kütüphane"
 ```
 
-### 4. Otomatik Test Paketinin Koşulması:
+### 6. Otomatik Statik Site Derleyicisi (`tools/build_site.py`):
+```bash
+# Tüm monografileri, yazmaları, tercümeleri ve alıntıları derleyip index.html'i güncelleme
+python tools/build_site.py
+```
+
+### 7. Otomatik Test Paketinin Koşulması:
 ```bash
 python -m unittest discover tests
 ```
@@ -376,8 +429,8 @@ python -m unittest discover tests
 ## 8. İnteraktif Web Portalı (`index.html`)
 
 Depo kökünde yer alan `index.html`, modern web tarayıcılarında doğrudan açılabilen tek sayfalık (SPA) zengin bir görsel keşif arayüzüdür:
-* **Monografi Okuyucu Modalı:** 12 akademik monografiyi Markdown formatında biçimlendirilmiş, diyagramları ve kaynakçalarıyla okuma imkânı.
-* **Canlı Yazma Eser Arama Motoru:** Kütüphane, müellif ve konu bazlı anlık arama ve filtreleme.
+* **Monografi Okuyucu Modalı:** 18 akademik monografiyi Markdown formatında biçimlendirilmiş, diyagramları ve kaynakçalarıyla okuma imkânı.
+* **Canlı Yazma Eser Arama Motoru:** 6 dünya kütüphanesindeki 24 yazma nüshayı anlık arama ve filtreleme.
 * **Toledo Çeviri Matrisi:** Arapça eserlerin Latince başlıkları, mütercimleri ve Avrupa'daki tesirleri.
 * **Görsel Kronoloji Şeridi:** 711'den 1492'ye tüm hadiselerin dönem bazlı kartları.
 * **Rastgele Alıntı Kartı:** Günün alıntısı jeneratörü ve birincil kaynak doğrulaması.
